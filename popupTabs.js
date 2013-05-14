@@ -1,3 +1,7 @@
+/*! popupTabs
+* Copyright (c) 2013 Jonah Katz; Licensed MIT */
+
+
 var popupTabs = (function() {
 
     var groups;
