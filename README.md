@@ -1,7 +1,7 @@
 popupTabs
 =========
 
-Create google like modules that display on click. Pass in the the id of the element to click and the id of the element to display. 
+Create google like popup that display on click (the account button thats in the header of google.com ). Pass in the the id of the element to click and the id of the element to display. 
 
 Example Usage
 =============
